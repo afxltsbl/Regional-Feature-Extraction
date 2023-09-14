@@ -3,6 +3,7 @@ Rural Character Extraction and Assessment
 
 # Environments
 Pytorch v1.13
+
 python 3.8
 
 # code Structure
