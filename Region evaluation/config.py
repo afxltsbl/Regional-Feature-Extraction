@@ -38,5 +38,5 @@ class Config:
         self.common_place = os.path.join(root_dir, 'data', 'user_settings', '地名列表.txt')
 
         # 常用村名
-        self.common_village_name = os.path.join(root_dir, 'data', 'user_settings', '地区村名.txt')  # 常用地区村名称——地名  干什么？特例：年画村，年画
+        self.common_village_name = os.path.join(root_dir, 'data', 'user_settings', '地区村名.txt') 
 
