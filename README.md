@@ -6,7 +6,7 @@ Pytorch v1.13
 
 python 3.8
 
-# file Structure
+# File Structure
 This folder contains the relevant code for countryside feature mining and evaluation, which is mainly composed of four parts:
 
 (1) DATA: the crawled text data of microblog countryside.
